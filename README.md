@@ -1,8 +1,11 @@
-# Astro & Tailwind CSS Starter Kit
+# Tapi.. devfolio
 
-by https://lexingtonthemes.com
+Tapi..'s developer portfolio
+
+Astro & Tailwind CSS Starter Kit from [michael-andreuzza/swissfolio](https://github.com/michael-andreuzza/swissfolio)
 
 ## Template Integrations
+
 - @astrojs/tailwind - https://docs.astro.build/en/guides/integrations-guide/tailwind/
 - @astrojs/sitemap - https://docs.astro.build/en/guides/integrations-guide/sitemap/
 
@@ -44,4 +47,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## Want to learn more?
 
-Feel free to check Astroäs [documentation](https://docs.astro.build)
+Feel free to check Astro's [documentation](https://docs.astro.build)
